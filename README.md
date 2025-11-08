@@ -1,0 +1,2 @@
+# Control
+Ubicación de equipos 
